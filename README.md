@@ -1,7 +1,10 @@
+# 👋 Hello world
+
 ## Um pouco sobre mim:
   
 - Gosto de aprender coisas novas 
 - Tenho 13 anos
+
 
 <div align="center">
   <a href="https://github.com/TlkW">
