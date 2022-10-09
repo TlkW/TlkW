@@ -9,6 +9,8 @@
 - Gosto de estudar programação.
 - Faço aniversário dia 14/07...
  
+ <hr>
+ 
  > ## ***Meu github starts***
 
 
