@@ -10,7 +10,7 @@
 - Faço aniversário dia 14/07...
  
  
- > ## ***Meu github starts***
+ > ## ***Meu github stats***
 
 
   <a href="https://github.com/TlkW">
