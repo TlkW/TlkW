@@ -22,7 +22,7 @@
   - [Better_discord_themes](https://github.com/TlkW/Better_discord_themes)
   - [Profile-Pictures-Anime](https://https://github.com/TlkW/Profile-Pictures-Anime-)
   
-> ## ***""***
+
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 
