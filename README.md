@@ -23,6 +23,3 @@
   - [Profile-Pictures-Anime](https://https://github.com/TlkW/Profile-Pictures-Anime-)
   
 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
-
