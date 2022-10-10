@@ -1,6 +1,7 @@
 > ## ***👋 Olá! Seja bem vindo ao meu perfil.***
 
 > # &%&![00164](https://user-images.githubusercontent.com/110054625/194781268-9250dbc7-88d2-4a49-8702-926b33635def.png)
+  <img src="https://profile-counter.glitch.me/TlkW/count.svg" alt="hit counter" align="center">
 
 
 > ## ***🦚 Algumas coisas sobre mim:***
@@ -21,3 +22,5 @@
  > ## ***📋 Repositórios enviados:***
   - [Better_discord_themes](https://github.com/TlkW/Better_discord_themes)
   - [Profile-Pictures-Anime](https://https://github.com/TlkW/Profile-Pictures-Anime-)
+  
+
