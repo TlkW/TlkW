@@ -1,18 +1,18 @@
-> ## ***👋 Olá! Seja bem vindo ao meu perfil.***
+> ## ***👋 Hello World.***
 
 > # &%&![00164](https://user-images.githubusercontent.com/110054625/194781268-9250dbc7-88d2-4a49-8702-926b33635def.png)
 
-> ## ***Minha Biografia***
+> ## ***My Biografy***
 Olá, tudo bem? Eu me chamo ####, tenha 13 anos e sou um jovem estudante de programação.
 
-> ## ***🦚 Algumas coisas sobre mim:***
+> ## ***Some things about me:***
  
-- Eu adoro ouvir músicas.
-- Gosto de estudar programação.
-- Faço aniversário dia 14/07...
+- I love listening to music.
+- I like to study programming.
+- I have a birthday on the 14/07th...
  
  
- > ## ***👾Meu github stats***
+ > ## ***My github stats***
 
 
   <a href="https://github.com/TlkW">
@@ -20,7 +20,7 @@ Olá, tudo bem? Eu me chamo ####, tenha 13 anos e sou um jovem estudante de prog
 </div>
 </div>
    
- > ## ***📋 Repositórios enviados:***
+ > ## ***Uploaded repositories:***
   - [Better_discord_themes](https://github.com/TlkW/Better_discord_themes)
   - [Profile-Pictures-Anime](https://https://github.com/TlkW/Profile-Pictures-Anime-)
   
