@@ -2,6 +2,8 @@
 
 > # &%&![00164](https://user-images.githubusercontent.com/110054625/194781268-9250dbc7-88d2-4a49-8702-926b33635def.png)
 
+> ## ***👻 Biografia***
+> Olá, tudo bem? Eu me chamo ####, tenha 13 anos e sou um jovem estudante de programação.
 
 > ## ***🦚 Algumas coisas sobre mim:***
  
