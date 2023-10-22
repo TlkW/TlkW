@@ -3,7 +3,7 @@
 > # ![00164](https://user-images.githubusercontent.com/110054625/194781268-9250dbc7-88d2-4a49-8702-926b33635def.png)
 
 > ## ***My Biografy***
-> - Hello how are you? My name is ####, I'm 13 years old and I'm a young programming student.
+ - Hello how are you? My name is ####, I'm 14 years old and I'm a young programming student.
 
 > ## ***Some things about me:***
  
