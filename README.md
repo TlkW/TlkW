@@ -12,16 +12,9 @@
 - *I love listening to music.*
 - *I like to study programming.*
 - *I have a birthday on the 14/07th...*
- 
-
- 
- > ## ***My github stats***
 
 
-  <a href="https://github.com/TlkW">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TlkW&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-</div>
+
    
  > ## ***Uploaded repositories:***
   - [Better_discord_themes](https://github.com/TlkW/Better_discord_themes)
