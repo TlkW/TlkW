@@ -1,12 +1,12 @@
 
 
 
-> ## ***My Biografy***
+> ## 📝***My Biografy***
  - **Hello how are you? My name is ####, I'm 14 years old and I'm a young programming student.**
 
 
 
-> ## ***Some things about me:***
+> ## 📌***Some things about me:***
  
 - *I love listening to music.*
 - *I like to study programming.*
@@ -15,7 +15,7 @@
 
 
    
- > ## ***Uploaded repositories:***
+ > ## 🗂***Uploaded repositories:***
   - [Better_discord_themes](https://github.com/TlkW/Better_discord_themes)
   - [Profile-Pictures-Anime](https://https://github.com/TlkW/Profile-Pictures-Anime-)
   
