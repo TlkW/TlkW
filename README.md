@@ -22,8 +22,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
    
- > # 🗂***Uploaded repositories:***
-  - [Better_discord_themes](https://github.com/TlkW/Better_discord_themes)
-- [theme Specitify](https://github.com/TlkW/Theme-Purple-Orange-Spicetify)
+ 
 <hr>
 
