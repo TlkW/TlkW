@@ -6,9 +6,10 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank"></a> junt<img 
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+<hr>
 
  # 👨🏻‍💻 My Biografy
- ``# Hello how are you? My name is Nogueira, I'm 14 years old and I'm a Perfectionist guy, who likes things his way <3. Every now and then I post some cool things that I found online or that I made myself. Well that's it, thank you for reading my about me, I like you <3.``
+ ***Hello how are you? My name is Nogueira, I'm 14 years old and I'm a Perfectionist guy, who likes things his way <3. Every now and then I post some cool things that I found online or that I made myself. Well that's it, thank you for reading my about me, I like you <3.***
 
 <a href="#"><img align="right" src="https://i.pinimg.com/564x/cb/54/10/cb5410ae82bb789a203348c7fb1f7e75.jpg" width="200 " height="200" /></a>
 
@@ -21,8 +22,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
  # 📢 Most Recented
 
-
-<hr>
 
    
  
