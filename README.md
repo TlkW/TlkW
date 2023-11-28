@@ -23,4 +23,4 @@
 
 - [Theme Spicetify](https://github.com/TlkW/Theme-Purple-Orange-Spicetify)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDADAD&background=150F1F00&random=false&width=435&lines=Thanks+for+visit+my+profile+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDADAD&background=150F1F00&random=false&width=435&lines=Thanks+for+visit+my+profile+%3C3;And+yes%2C+i+love+purple+with+orange.)](https://git.io/typing-svg)
