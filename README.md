@@ -2,9 +2,10 @@
 <div align="center">
 <img src="https://github.com/TlkW/TlkW/blob/main/header.png" width="1000px" />
 
+</div>
+
 [![Hits](https://hits.sh/github.com/TlkW/beautify-github-profile.svg?style=for-the-badge&label=Visits&extraCount=5&color=cdadad&labelColor=4d2f72&logo=slug)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
 
-</div>
 
  # 👨🏻‍💻 My Biografy
  ***Hello how are you? My name is Nogueira, I'm 14 years old and I'm a Perfectionist guy, who likes things his way <3. Every now and then I post some cool things that I found online or that I made myself. Well that's it, thank you for reading my about me, I like you <3.***
