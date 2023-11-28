@@ -4,9 +4,12 @@
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank"></a> junt<img 
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></
+                                                                                     h1>
 
 <hr>
+
+[![Hits](https://hits.sh/github.com/TlkW/beautify-github-profile.svg?style=for-the-badge&label=Visits&extraCount=5&color=cdadad&labelColor=4d2f72&logo=slug)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
 
  # 👨🏻‍💻 My Biografy
  ***Hello how are you? My name is Nogueira, I'm 14 years old and I'm a Perfectionist guy, who likes things his way <3. Every now and then I post some cool things that I found online or that I made myself. Well that's it, thank you for reading my about me, I like you <3.***
@@ -23,7 +26,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  # 📢 Most Recented
 
 - [Theme Spicetify](https://github.com/TlkW/Theme-Purple-Orange-Spicetify)
-   
- 
+
 
 
