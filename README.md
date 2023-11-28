@@ -27,5 +27,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - [Theme Spicetify](https://github.com/TlkW/Theme-Purple-Orange-Spicetify)
 
-
+<!--START_SECTION:activity-->(
 
