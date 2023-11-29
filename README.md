@@ -2,9 +2,11 @@
 
 
 
-</div>
+# 🈳
 
-# 🈳 [![Hits](https://hits.sh/github.com/TlkW/beautify-github-profile.svg?style=for-the-badge&label=Visits&extraCount=5&color=cdadad&labelColor=4d2f72&logo=slug)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
+
+
+ [![Hits](https://hits.sh/github.com/TlkW/beautify-github-profile.svg?style=for-the-badge&label=Visits&extraCount=5&color=cdadad&labelColor=4d2f72&logo=slug)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
 
 
  # 👨🏻‍💻 My Biografy
