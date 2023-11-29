@@ -1,10 +1,10 @@
  ![1](https://github.com/TlkW/TlkW/assets/110054625/f9c5eeb3-5df9-43fa-a95d-5bcf6e2eb47d)
 
-
+<div align="center">
 
 # 🈳
 
-
+</div>
 
  [![Hits](https://hits.sh/github.com/TlkW/beautify-github-profile.svg?style=for-the-badge&label=Visits&extraCount=5&color=cdadad&labelColor=4d2f72&logo=slug)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
 
