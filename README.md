@@ -12,7 +12,7 @@
  # 👨🏻‍💻 My Biografy
  ``Hello how are you? My name is Nogueira, I'm 14 years old and I'm a Perfectionist guy, who likes things his way <3. Every now and then I post some cool things that I found online or that I made myself. Well that's it, thank you for reading my about me, I like you <3.``
 
-<a href="#"><img align="right" src="https://i.pinimg.com/564x/cb/54/10/cb5410ae82bb789a203348c7fb1f7e75.jpg" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://i.pinimg.com/564x/db/34/1e/db341ea4f7827eb8d9e9bc2cd7d6d629.jpg" width="300 " height="200" /></a>
 
 
  # 📌 Some things about me:
