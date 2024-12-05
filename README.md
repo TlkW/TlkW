@@ -25,6 +25,11 @@
 
 - [Theme Spicetify](https://github.com/TlkW/Theme-Purple-Orange-Spicetify)
 
+
+ # 💎 My Github Stats
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlkw&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDADAD&background=150F1F00&random=false&width=435&lines=Thanks+for+visit+my+profile+%3C3;And+yes%2C+i+love+purple+with+orange.)](https://git.io/typing-svg)
