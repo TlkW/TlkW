@@ -21,11 +21,6 @@
 - ``I like customizing things, always leaving it my way, as you can already tell lol.``
 - ``I have a birthday on the 14/07th...``
 
- # 📢 Most Recented
-
-- [Theme Spicetify](https://github.com/TlkW/Theme-Purple-Orange-Spicetify)
-
-
  # 💎 My Github Stats
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlkw&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
