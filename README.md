@@ -1,4 +1,4 @@
- ![1](https://github.com/TlkW/TlkW/assets/110054625/f9c5eeb3-5df9-43fa-a95d-5bcf6e2eb47d)
+
 
 <div align="center">
 
